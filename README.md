@@ -1,4 +1,4 @@
-# pyhton_practicse
+# github_practicse
 
 
 with my frnd 
